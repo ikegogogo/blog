@@ -1,4 +1,3 @@
-
 ---
 
 title: Hexo 实现云端写作，自动部署
@@ -11,4 +10,6 @@ tags: []
 
 ---
 Hexo + Github + 语雀 + yuque + hexo + travis-ci + severless 打造全自动持续集成个人博客，云端写作，自动部署
+
+由于travis-ci访问超级慢，ci工具改用[appveyor](https://www.appveyor.com)
 
