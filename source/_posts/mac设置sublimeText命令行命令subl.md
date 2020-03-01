@@ -1,6 +1,7 @@
 ---
 title: mac设置sublimeText命令行命令subl
 date: 2019-04-14 23:27:27
+cover: https://tva1.sinaimg.cn/large/00831rSTgy1gcewfplv5hj30rs0kowf0.jpg
 tags:
 - sublime 
 - mac

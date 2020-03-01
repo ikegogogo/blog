@@ -1,6 +1,7 @@
 ---
 title: mac下idea卡顿问题解决
 date: 2019-09-30 13:10:07
+cover: https://tva1.sinaimg.cn/large/00831rSTgy1gcewk1ky0ij30rs0ju766.jpg
 tags:
 - idea
 ---

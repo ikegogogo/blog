@@ -1,6 +1,7 @@
 ---
 title: 读书笔记-PHP核心技术与最佳实践
 date: 2019-07-13 23:59:40
+cover: https://images.pexels.com/photos/2766334/pexels-photo-2766334.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500
 tags:
 - php
 - 读书笔记

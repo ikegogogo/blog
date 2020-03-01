@@ -1,6 +1,7 @@
 ---
 title: IntelliJ IDEA神器使用技巧
 date: 2019-07-28 23:36:58
+cover: https://tva1.sinaimg.cn/large/00831rSTgy1gcewk1ky0ij30rs0ju766.jpg
 tags:
 ---
 

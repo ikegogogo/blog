@@ -4,6 +4,8 @@ title: Hexo 实现云端写作，自动部署
 
 urlname: tww5u3
 
+cover: https://tva1.sinaimg.cn/large/00831rSTgy1gcewfplv5hj30rs0kowf0.jpg
+
 date: 2019-10-02 14:46:37 +0800
 
 tags: []

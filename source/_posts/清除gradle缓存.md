@@ -1,6 +1,7 @@
 ---
 title: 清除gradle缓存
 date: 2019-09-30 13:17:08
+cover: https://tva1.sinaimg.cn/large/00831rSTgy1gcewj4vv9sj30rs0ijgmf.jpg
 tags:
 - gradle
 - java

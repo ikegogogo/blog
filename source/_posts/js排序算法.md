@@ -1,6 +1,7 @@
 ---
 title: js排序算法
 date: 2019-03-21 13:50:24
+cover: https://tva1.sinaimg.cn/large/00831rSTgy1gcewj4vv9sj30rs0ijgmf.jpg
 tags:
 ---
 
