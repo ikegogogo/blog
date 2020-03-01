@@ -1,7 +1,7 @@
 ---
 title: java面试总结
 date: 2020-03-01 23:11:08
-cover: https://images.pexels.com/photos/3706707/pexels-photo-3706707.jpeg?cs=srgb&dl=silhouette-of-man-standing-on-grass-field-during-night-time-3706707.jpg&fm=jpg
+cover: https://tva1.sinaimg.cn/large/00831rSTgy1gcexf53r80j30rs0hjgoj.jpg
 tags:
 - java
 - 面试
